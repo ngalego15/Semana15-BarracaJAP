@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Barraca - Productos</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h1 class="mb-4">Catálogo de Productos</h1>
+      <div class="row">
+        <!-- Aquí se mostrarían los productos desde el JSON -->
+        <!-- Cada producto tendría su nombre, descripción, precio, stock y un botón para agregar al carrito -->
+      </div>
+    </div>
+
+    <div class="container mt-5">
+      <h1 class="mb-4">Carrito de Compras</h1>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Precio Unitario</th>
+            <th>Cantidad</th>
+            <th>Subtotal</th>
+            <th>Eliminar</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Aquí se mostrarían los productos agregados al carrito -->
+          <!-- Cada fila tendría el nombre del producto, precio unitario, cantidad, subtotal y un botón para eliminar el producto -->
+        </tbody>
+      </table>
+      <p>Total de la Compra: <span id="totalCompra">0</span> pesos</p>
+      <p>Forma de Pago:</p>
+      <label class="mr-3">
+        <input type="radio" name="formaPago" value="efectivo" /> Efectivo (10%
+        de descuento)
+      </label>
+      <label class="mr-3">
+        <input type="radio" name="formaPago" value="credito" /> Crédito (7% de
+        aumento)
+      </label>
+      <label>
+        <input type="radio" name="formaPago" value="debito" checked /> Débito
+      </label>
+      <button class="btn btn-primary mt-3" onclick="calcularTotal()">
+        Calcular Total
+      </button>
+    </div>
+
+    <script>
+      // Aquí deberías agregar el código JavaScript para manejar la lógica del carrito y la actualización del stock
+      function calcularTotal() {
+        // Aquí deberías calcular el total de la compra según la forma de pago seleccionada
+        // y mostrarlo en el elemento con id "totalCompra"
+      }
+    </script>
+
+    <!-- Scripts de Bootstrap y Font Awesome -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>

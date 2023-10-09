@@ -1,0 +1,214 @@
+{
+  "productos": [
+    {
+      "identificacion": "P001",
+      "nombre": "Madera de Pino 2x4",
+      "descripcion": "Tablones de madera de pino de 2x4 pulgadas",
+      "cantidad_en_stock": 500,
+      "costo_en_pesos": 250
+    },
+    {
+      "identificacion": "P002",
+      "nombre": "Ladrillos Cerámicos",
+      "descripcion": "Ladrillos cerámicos para construcción",
+      "cantidad_en_stock": 800,
+      "costo_en_pesos": 450
+    },
+    {
+      "identificacion": "P003",
+      "nombre": "Cemento Portland",
+      "descripcion": "Bolsas de cemento Portland de 50 kg",
+      "cantidad_en_stock": 300,
+      "costo_en_pesos": 350
+    },
+    {
+      "identificacion": "P004",
+      "nombre": "Tubos PVC 4 pulgadas",
+      "descripcion": "Tubos de PVC de 4 pulgadas para fontanería",
+      "cantidad_en_stock": 600,
+      "costo_en_pesos": 150
+    },
+    {
+      "identificacion": "P005",
+      "nombre": "Clavos Galvanizados",
+      "descripcion": "Clavos galvanizados de diferentes tamaños",
+      "cantidad_en_stock": 1000,
+      "costo_en_pesos": 80
+    },
+    {
+      "identificacion": "P006",
+      "nombre": "Tejas de Zinc",
+      "descripcion": "Tejas de zinc para techos",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 200
+    },
+    {
+      "identificacion": "P007",
+      "nombre": "Arena de Construcción",
+      "descripcion": "Arena de construcción de alta calidad",
+      "cantidad_en_stock": 1200,
+      "costo_en_pesos": 120
+    },
+    {
+      "identificacion": "P008",
+      "nombre": "Tornillos de Acero",
+      "descripcion": "Tornillos de acero inoxidable en varios tamaños",
+      "cantidad_en_stock": 800,
+      "costo_en_pesos": 100
+    },
+    {
+      "identificacion": "P009",
+      "nombre": "Láminas de Plywood",
+      "descripcion": "Láminas de plywood para carpintería",
+      "cantidad_en_stock": 300,
+      "costo_en_pesos": 350
+    },
+    {
+      "identificacion": "P010",
+      "nombre": "Hormigón Pre-mezclado",
+      "descripcion": "Hormigón pre-mezclado para obras grandes",
+      "cantidad_en_stock": 500,
+      "costo_en_pesos": 600
+    },
+    {
+      "identificacion": "P011",
+      "nombre": "Piedra Triturada",
+      "descripcion": "Piedra triturada para relleno y construcción",
+      "cantidad_en_stock": 700,
+      "costo_en_pesos": 180
+    },
+    {
+      "identificacion": "P012",
+      "nombre": "Mallas de Alambre",
+      "descripcion": "Mallas de alambre para cercas y rejas",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 120
+    },
+    {
+      "identificacion": "P013",
+      "nombre": "Tubos de Hierro",
+      "descripcion": "Tubos de hierro para estructuras metálicas",
+      "cantidad_en_stock": 600,
+      "costo_en_pesos": 350
+    },
+    {
+      "identificacion": "P014",
+      "nombre": "Bloques de Concreto",
+      "descripcion": "Bloques de concreto para construcción",
+      "cantidad_en_stock": 900,
+      "costo_en_pesos": 450
+    },
+    {
+      "identificacion": "P015",
+      "nombre": "Láminas de Techo de Asbesto",
+      "descripcion": "Láminas de techo de asbesto resistentes",
+      "cantidad_en_stock": 300,
+      "costo_en_pesos": 300
+    },
+    {
+      "identificacion": "P016",
+      "nombre": "Varillas de Hierro",
+      "descripcion": "Varillas de hierro para refuerzo de concreto",
+      "cantidad_en_stock": 800,
+      "costo_en_pesos": 200
+    },
+    {
+      "identificacion": "P017",
+      "nombre": "Pintura Exterior",
+      "descripcion": "Pintura de exterior de alta calidad",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 350
+    },
+    {
+      "identificacion": "P018",
+      "nombre": "Cables Eléctricos",
+      "descripcion": "Cables eléctricos de diferentes calibres",
+      "cantidad_en_stock": 700,
+      "costo_en_pesos": 120
+    },
+    {
+      "identificacion": "P019",
+      "nombre": "Azulejos Cerámicos",
+      "descripcion": "Azulejos cerámicos para baños y cocinas",
+      "cantidad_en_stock": 600,
+      "costo_en_pesos": 280
+    },
+    {
+      "identificacion": "P020",
+      "nombre": "Mangueras de Jardín",
+      "descripcion": "Mangueras de jardín resistentes",
+      "cantidad_en_stock": 300,
+      "costo_en_pesos": 80
+    },
+    {
+      "identificacion": "P021",
+      "nombre": "Tuberías de Agua PVC",
+      "descripcion": "Tuberías de agua de PVC de diferentes tamaños",
+      "cantidad_en_stock": 500,
+      "costo_en_pesos": 150
+    },
+    {
+      "identificacion": "P022",
+      "nombre": "Mallas de Sombra",
+      "descripcion": "Mallas de sombra para proteger del sol",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 100
+    },
+    {
+      "identificacion": "P023",
+      "nombre": "Tuberías de Hierro Galvanizado",
+      "descripcion": "Tuberías de hierro galvanizado para fontanería",
+      "cantidad_en_stock": 600,
+      "costo_en_pesos": 200
+    },
+    {
+      "identificacion": "P024",
+      "nombre": "Herramientas de Carpintería",
+      "descripcion": "Herramientas para carpintería de alta calidad",
+      "cantidad_en_stock": 300,
+      "costo_en_pesos": 500
+    },
+    {
+      "identificacion": "P025",
+      "nombre": "Grava para Jardín",
+      "descripcion": "Grava decorativa para jardinería",
+      "cantidad_en_stock": 800,
+      "costo_en_pesos": 150
+    },
+    {
+      "identificacion": "P026",
+      "nombre": "Papel de Lija",
+      "descripcion": "Papel de lija de diferentes granos",
+      "cantidad_en_stock": 1000,
+      "costo_en_pesos": 20
+    },
+    {
+      "identificacion": "P027",
+      "nombre": "Pegamento para Azulejos",
+      "descripcion": "Pegamento especial para azulejos cerámicos",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 60
+    },
+    {
+      "identificacion": "P028",
+      "nombre": "Mallas de Alambre Galvanizado",
+      "descripcion": "Mallas de alambre galvanizado para cercas",
+      "cantidad_en_stock": 600,
+      "costo_en_pesos": 180
+    },
+    {
+      "identificacion": "P029",
+      "nombre": "Tubos de PVC 2 pulgadas",
+      "descripcion": "Tubos de PVC de 2 pulgadas para fontanería",
+      "cantidad_en_stock": 500,
+      "costo_en_pesos": 90
+    },
+    {
+      "identificacion": "P030",
+      "nombre": "Piedra Decorativa",
+      "descripcion": "Piedra decorativa para jardines y paisajismo",
+      "cantidad_en_stock": 400,
+      "costo_en_pesos": 200
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+.card-description {
+    min-height: 3.5rem;
+}
+
+.border-card {
+    border-color: rgb(0, 174, 255, 0.8);
+}
+
+.text-title {
+    margin-bottom: 3rem;
+}
+
+.text-card-margin {
+    margin-bottom: 1em;
+}
+
+.gap-needer {
+    gap:12rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.size-adjust-cart {
+    font-size:1.3em;
+}
+
+.cart-separation {
+    margin-right: 1em;
+}
+
+@media (max-width: 534px) {
+    .row.text-title {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .col.text-end {
+        margin-top: 10px;
+    }
+
+    .gap-needer {
+        gap:1rem;
+    }
+}
